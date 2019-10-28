@@ -30,7 +30,7 @@ lista de links úteis sobre Git e GitHub:
 
 ## Material Necessário para o curso:
 
-<img src = 'http://gph.is/1O5jwUq' width = 700>
+<img src = 'https://media.giphy.com/media/3o6UB5RrlQuMfZp82Y/giphy.gif' width = 700>
 
 **fonte:** [GIPHY](https://media.giphy.com/media/tvGOBZKNEX0ac/giphy.gif)
 

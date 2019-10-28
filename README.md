@@ -67,5 +67,38 @@ foram instaladas pelo Anaconda. Deve aparecer algo do tipo:
  <img src='conda-list.png' width = 700>
 
  A lista de pacotes continua em ordem alfabética. Note que as informações
- associadas ao pacote `anaconda` são `2019.03` e `py36_0`.
+ associadas ao pacote `anaconda` são `2019.03` e `py37_0`.
 
+
+
+## Sites importantes!
+
+ * [Fatiando a Terra](http://www.fatiando.org/index.html)
+
+ * [Computational Infrastructure for Geodynamics (CIG)](http://geodynamics.org/cig/)
+
+ * [Generic Mapping Tools (GMT)](http://gmt.soest.hawaii.edu/projects/gmt/wiki)
+
+ * [CFD Python: 12 steps to Navier-Stokes :: Lorena A. Barba group](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+
+ * [Software Carpentry](http://software-carpentry.org/index.html)
+
+ * [Pythonic Perambulations](https://jakevdp.github.io/)
+
+ * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+ * [Notebook Gallery - Links to the best IPython and Jupyter Notebooks](http://nb.bianp.net/sort/views/)
+
+ * [matplotlib - 2D and 3D plotting in Python](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
+
+ * [WolframMathWorld](http://mathworld.wolfram.com/)
+
+ * [Various writings - Hans Petter Langtangen](http://hplgit.github.io/)
+
+ * [scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/index.html)
+
+ * [Codecademy](https://www.codecademy.com/about)
+
+ * [Pandas](http://pandas.pydata.org/)
+
+ * [SciPy](https://scipy.org/about.html)

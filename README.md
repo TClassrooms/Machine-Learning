@@ -1,8 +1,8 @@
-# Machine Learning Course - MLC
+# A Machine Learning Course - MLC
 Um curso sobre inteligência artificial.    
 
 ## Público Alvo:
- Esse curso destina-se a apresentar os conceitos de inteligência artificial e aprendizado de máquina para geofísicos, geólogos, matemáticos e físicos interessados na área, e todas as pessoas que gostem de programação e . 
+ Esse curso destina-se a apresentar os conceitos de inteligência artificial e aprendizado de máquina para geofísicos, geólogos, matemáticos, físicos, estudantes e interessados na área, além de todas as pessoas que gostem de programação e não tem muito dinheiro.
 
 **Responsável**: [Carreira,V.R.](http://lattes.cnpq.br/9663791782095105)
 
@@ -28,13 +28,13 @@ lista de links úteis sobre Git e GitHub:
 **Agradecimento Especial:** [Dr. Vanderlei C. Oliveira Jr.](http://www.pinga-lab.org/people/oliveira-jr.html)
 
 
-## Material Necessário para o curso:
+## Material necessário para o curso:
 
 <img src = 'https://media.giphy.com/media/3o6UB5RrlQuMfZp82Y/giphy.gif' width = 700>
 
 **fonte:** [GIPHY](https://media.giphy.com/media/tvGOBZKNEX0ac/giphy.gif)
 
 
-No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o menor custo computacinal, pois esta é a realidade da maioria das universidades e escolas brasileiras. Mas caso você estude em uma universidade ou trabalhe em uma empresa com muitos recursos saiba que esse curso também serve para você! 
+No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o menor custo computacional, pois esta é a realidade da maioria das universidades e escolas brasileiras. Mas caso você estude em uma universidade ou trabalhe em uma empresa com muitos recursos saiba que esse curso também serve para você! 
 
  

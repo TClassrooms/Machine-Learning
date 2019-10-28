@@ -35,7 +35,7 @@ lista de links úteis sobre Git e GitHub:
 **fonte:** [GIPHY](https://media.giphy.com/media/tvGOBZKNEX0ac/giphy.gif)
 
 
-No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o menor custo computacional, pois esta é a realidade da maioria das universidades e escolas brasileiras. Mas caso você estude em uma universidade ou trabalhe em uma empresa com muitos recursos saiba que esse curso também serve para você! 
+No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o menor custo possível, pois esta é a realidade da maioria das universidades e escolas brasileiras. Mas caso você estude em uma universidade ou trabalhe em uma empresa com muitos recursos saiba que esse curso também serve para você! 
 
 Em termos de Hardware você vai precisar nada mais do que um Intel Core I3 ou um AMD Athlon 200GE com 4gb Ddr3 ou superior. 
 
@@ -49,4 +49,23 @@ em TeX, figuras e animações. Além disso, é gratuito e extremamente bem
 documentado. Esta poderosa ferramenta computacional possibilita reunir (quase)
 todas as etapas envolvidas no desenvolvimento de um código com fins acadêmicos,
 desde a leitura e processamento dos dados até a visualização dos resultados.
+
+
+## Instalação do Python e de suas dependências
+
+Para instalar o Python Anaconda, sugiro
+seguir as [instruções do Software Carpentry](https://carpentries.github.io/workshop-template/#python).
+Outra opção é acessar diretamente o [site o Python Anaconda](https://www.anaconda.com/distribution/#download-section).
+
+**IMPORTANTE**: Usaremos o Python 3.x!
+
+Para checar se a instalação deu certo, abra uma janela do prompt de comando,
+caso você esteja no Windows, ou um terminal, se estiver no Linux. Em seguida,
+Digite o comando: `conda list`. Este comando mostrará uma lista de *coisas* que
+foram instaladas pelo Anaconda. Deve aparecer algo do tipo:
+
+ <img src='conda-list.png' width = 700>
+
+ A lista de pacotes continua em ordem alfabética. Note que as informações
+ associadas ao pacote `anaconda` são `2019.03` e `py36_0`.
 

@@ -37,4 +37,16 @@ lista de links úteis sobre Git e GitHub:
 
 No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o menor custo computacional, pois esta é a realidade da maioria das universidades e escolas brasileiras. Mas caso você estude em uma universidade ou trabalhe em uma empresa com muitos recursos saiba que esse curso também serve para você! 
 
- 
+Em termos de Hardware você vai precisar nada mais do que um Intel Core I3 ou um AMD Athlon 200GE com 4gb Ddr3 ou superior. 
+
+Em termos de software vamos precisar do python**3.X** instalado em seus sistema, seja ele windows, linux ou macOS. E para tornar o curso mais amigável iremos utilizar a plataforma [Jupyter Notebook](https://jupyter.org/).
+
+## O Jupyter Notebook:
+
+O [Jupyter Notebook](https://jupyter.org/) é um
+arquivo com extensão `.ipynb` e permite combinar código, texto, equações feitas
+em TeX, figuras e animações. Além disso, é gratuito e extremamente bem
+documentado. Esta poderosa ferramenta computacional possibilita reunir (quase)
+todas as etapas envolvidas no desenvolvimento de um código com fins acadêmicos,
+desde a leitura e processamento dos dados até a visualização dos resultados.
+

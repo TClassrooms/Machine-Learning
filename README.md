@@ -39,7 +39,7 @@ No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o 
 
 Em termos de Hardware você vai precisar nada mais do que um Intel Core I3 ou um AMD Athlon 200GE com 4gb Ddr3 ou superior. 
 
-Em termos de software vamos precisar do python**3.X** instalado em seus sistema, seja ele windows, linux ou macOS. E para tornar o curso mais amigável iremos utilizar a plataforma [Jupyter Notebook](https://jupyter.org/).
+Em termos de software vamos precisar do python**3.X** (para alegria pythôniana e tristeza Fortrânica. Caso você tenha viajado neste parêtese, simplesmente ignore-o.) instalado em seus sistema, seja ele windows, linux ou macOS. E para tornar o curso mais amigável iremos utilizar a plataforma [Jupyter Notebook](https://jupyter.org/).
 
 ## O Jupyter Notebook:
 
@@ -68,6 +68,37 @@ foram instaladas pelo Anaconda. Deve aparecer algo do tipo:
 
  A lista de pacotes continua em ordem alfabética. Note que as informações
  associadas ao pacote `anaconda` são `2019.03` e `py37_0`.
+
+
+
+## Bibliografia recomendada:
+
+* Haykin, S. (2001): Redes neurais: principios e prática, 2a edição, editora 
+McMaster University Hamilton, Ontário, Canadá. ISBN: 85-7307-718-2.
+ 
+* Hertz, J., K. A. and Palmer, R. (1990). Introduction to the Theory of Neural
+Computation. Santa Fe institute Studies in the Sciences of complexity.
+Addison-Wesley Publishing Company, Redwood City, Californa, United
+States of America, 1st edition.
+
+* McCulloch, W. S. and Pitts, W. (1943). A logical calculus of the ideas
+immanent in nervous activity. The Bulletin of Mathematical Biophysics,
+5(4):115–133.
+
+* Minsky, M. and Papert, S. (1969). Perceptrons. MIT Press Cambridge,
+Cambridge, second edition.
+
+* Rosenblatt, F. (1962). Principles of Neurodynamics. Perceptrons and the
+Theory of Brain Mechanisms. Archives of General Psychiatry, 7:218–219.
+
+
+* Press, W. H., Teukolsky, S. A, Vetterling, W. T. e Flannery,
+B. P. Numerical recipes in C: The art of scientific computing, 3rd edition, 
+Cambridge University Press, 2007, ISBN 978-0-511-33555-6.
+
+* Papers:
+
+
 
 
 

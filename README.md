@@ -102,16 +102,17 @@ Cambridge University Press, 2007, ISBN 978-0-511-33555-6.
    Machine learning for data-driven discovery in solid Earth geoscience. Science 363 (6433).
    DOI: 10.1126/science.aau0323.
   
+  2- Poulton, M. (2002). Neural networks as an intelligence amplification tool: A review of applications
+   GEOPHYSICS, VOL. 67, NO. 3 (MAY-JUNE 2002); P. 979–993, DOI: 10.1190/1.1484539.
 
-  4- Saljooghi, B. S. and Hezarkhani, A. (2014). Comparison of WAVENET and
-   ANN for predicting the porosity obtained from well log data. Journal of
-   Petroleum Science and Engineering, 123:172–182.
-
+  3 - Hall, Brendon (2016). Facies classification using machine learning. The Leading Edge. P. 906-909
 
 
 ## Sites importantes!
 
  * [Scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/index.html)
+
+ * [PyBrain](http://pybrain.org)
 
  * [Software Carpentry](http://software-carpentry.org/index.html)
 

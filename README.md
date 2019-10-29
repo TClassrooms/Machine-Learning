@@ -96,9 +96,16 @@ Theory of Brain Mechanisms. Archives of General Psychiatry, 7:218–219.
 B. P. Numerical recipes in C: The art of scientific computing, 3rd edition, 
 Cambridge University Press, 2007, ISBN 978-0-511-33555-6.
 
-* Papers:
+* Papers: 
+  
+  1- Karianne J. Bergen, Paul A. Johnson, Maarten V. de Hoop and Gregory C. Beroza (2019).
+   Machine learning for data-driven discovery in solid Earth geoscience. Science 363 (6433).
+   DOI: 10.1126/science.aau0323.
+  
 
-
+  4- Saljooghi, B. S. and Hezarkhani, A. (2014). Comparison of WAVENET and
+   ANN for predicting the porosity obtained from well log data. Journal of
+   Petroleum Science and Engineering, 123:172–182.
 
 
 

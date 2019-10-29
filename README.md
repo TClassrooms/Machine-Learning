@@ -104,13 +104,7 @@ Cambridge University Press, 2007, ISBN 978-0-511-33555-6.
 
 ## Sites importantes!
 
- * [Fatiando a Terra](http://www.fatiando.org/index.html)
-
- * [Computational Infrastructure for Geodynamics (CIG)](http://geodynamics.org/cig/)
-
- * [Generic Mapping Tools (GMT)](http://gmt.soest.hawaii.edu/projects/gmt/wiki)
-
- * [CFD Python: 12 steps to Navier-Stokes :: Lorena A. Barba group](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+ * [Scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/index.html)
 
  * [Software Carpentry](http://software-carpentry.org/index.html)
 
@@ -124,12 +118,12 @@ Cambridge University Press, 2007, ISBN 978-0-511-33555-6.
 
  * [WolframMathWorld](http://mathworld.wolfram.com/)
 
- * [Various writings - Hans Petter Langtangen](http://hplgit.github.io/)
+ * [Geophysical Tutorials](https://library.seg.org/doi/pdf/10.1190/tle35020190.1)
 
- * [scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/index.html)
-
- * [Codecademy](https://www.codecademy.com/about)
+ * [Khanademy](https://pt.khanacademy.org)
 
  * [Pandas](http://pandas.pydata.org/)
 
  * [SciPy](https://scipy.org/about.html)
+
+ * [Fatiando a Terra](http://www.fatiando.org/index.html)

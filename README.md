@@ -6,17 +6,11 @@ Um curso sobre inteligência artificial.
 
 **Responsável**: [Carreira,V.R.](http://lattes.cnpq.br/9663791782095105)
 
-**Aviso Legal:** O material disponibilizado neste repositório está em constante desenvolvimento e o Observatório Nacional não tem nenhuma responsabilidade sobre o seu conteúdo.
+**Aviso Legal:** O material disponibilizado neste repositório está em constante desenvolvimento. 
 
 ## Informações importantes:
 
-Esta página está hospedada em um repositório no GitHub. Um repositório é uma forma muito útil, 
-onde muita gente ao redor do mundo vem utilizado por meio do Git e do GitHub, para
-fazer colaborações científicas, divulgação, organizar e distribuir
-material desenvolvido em disciplinas, palestras, seminários, etc.
-AO LONGO DESTE CURSO, NÃO SERÁ COBRADO O CONHECIMENTO SOBRE Git OU
-GitHub. Mas, como conhecimento nunca é demais, abaixo segue uma
-lista de links úteis sobre Git e GitHub:
+Esta página está hospedada em um repositório no GitHub. Um repositório é uma forma muito útil, onde muita gente ao redor do mundo vem utilizado pormeio do Git e do GitHub, para fazer colaborações científicas, divulgação, organizar e distribuir material desenvolvido em disciplinas, palestras, seminários, etc. AO LONGO DESTE CURSO, NÃO SERÁ COBRADO O CONHECIMENTO SOBRE Git OU GitHub. Mas, como conhecimento nunca é demais, abaixo segue uma lista de links úteis sobre Git e GitHub:
 
 * [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
@@ -39,17 +33,17 @@ No desenvolvimento deste curso eu pensei em torná-lo o mais abrangente e com o 
 
 Em termos de Hardware você vai precisar nada mais do que um Intel Core I3 ou um AMD Athlon 200GE com 4gb Ddr3 ou superior. 
 
-Em termos de software vamos precisar do python**3.X** (para alegria pythôniana e tristeza Fortrânica. Caso você tenha viajado neste parêtese, simplesmente ignore-o.) instalado em seus sistema, seja ele windows, linux ou macOS. E para tornar o curso mais amigável iremos utilizar a plataforma [Jupyter Notebook](https://jupyter.org/).
+Em termos de software vamos precisar do python**3.X** (para alegria Pythônica e tristeza Fortrânica. Caso você tenha viajado neste parêntese, simplesmente ignore-o.) instalado em seus sistema, seja ele windows, linux ou macOS. E para tornar o curso acessível ao maior número de pessoas que tenham máquinas com especificações de hardware mais simples iremos utilizar o editor de textos VIM em associação com um terminal de seu gosto. Eu recomento o Deepin Terminal ou o Terminator.   
 
-## O Jupyter Notebook:
 
-O [Jupyter Notebook](https://jupyter.org/) é um
-arquivo com extensão `.ipynb` e permite combinar código, texto, equações feitas
-em TeX, figuras e animações. Além disso, é gratuito e extremamente bem
-documentado. Esta poderosa ferramenta computacional possibilita reunir (quase)
-todas as etapas envolvidas no desenvolvimento de um código com fins acadêmicos,
-desde a leitura e processamento dos dados até a visualização dos resultados.
+## O VIM:
 
+O [VIM](https://www.vim.org) é um editor de texto sem interface gráfica. Ele serve para edição de programas e textos em TeX, sendo muito interessante e altamente recomendável para programadores que possuam máquinas com hardware menos favorecidos. Quando você salva um arquivo usando o VIM são salvo ao todo 4 arquivos, dentre os quais existe um com extensão *.swp . Este arquivo de "swap" ou de troca salva a última versão do seu programa mesmo que você não tenha feito isso manualmente. Você poderá sempre recuperar um ponto do seu código "perdido" por alguma eventualidade. Além disso o VIM possibilita diversos tipos de highlighting e formatações. Todos esses recursos na sua mão com apenas alguns quilobytes de memória em uso.  
+
+## O Deepin Terminal e o Terminator:
+Esses dois programas, o [Deepin Terminal](https://www.deepin.org/en/original/deepin-terminal/) e o [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/gettingstarted.html) são ambos editores de texto que possuem a capacidade de dividir a tela da sua área de trabalho. Esse recurso é de suma importância para compilar seu código, contudo não é primordial.  
+
+**IMPORTANTE**: usuários de windows já podem usar o "windows terminal" a partir da versão windows 10 ou superior.
 
 ## Instalação do Python e de suas dependências
 

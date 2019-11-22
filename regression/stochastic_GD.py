@@ -1,21 +1,13 @@
 # Programa de classifição por mínimos quadrados
 
-
-
-
-#import numpy as np
-#import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.linear_model import SGDClassifier
 
 
 
 X = [[0., 0.], [1., 1.]]
 y = [0, 1]
-
-
-
-
-
 clf = SGDClassifier(loss="hinge", penalty="l2", max_iter=5)
 clf.fit(X, y)   
 SGDClassifier(alpha=0.0001, average=False, class_weight=None,
@@ -29,3 +21,7 @@ SGDClassifier(alpha=0.0001, average=False, class_weight=None,
 clf.predict([[2., 2.]])
 
 clf.coef_
+
+clf.intercept_ 
+
+clf.decision_function([[2., 2.]])
